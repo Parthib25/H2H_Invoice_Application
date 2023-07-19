@@ -1,0 +1,18 @@
+
+.container{
+    display: flex;
+    flex-direction: column !important;
+    height: max-content;
+    width: 40%;
+    margin:4%;
+    border: 2px solid white;
+    padding: 2%;
+  
+}
+.wrapper_graph{
+    display: flex;
+    flex-direction: row ;
+    width:100vw;
+    height: max-content;
+    background-color: #666666;
+}

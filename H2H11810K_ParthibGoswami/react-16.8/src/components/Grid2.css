@@ -1,0 +1,16 @@
+.footer2{
+    background-color: #666666;
+    display: flex;
+    flex-direction: row;
+    
+}
+.d{
+    background-color: #8fd163;
+    border-radius: 10px;
+    font-size: x-small !important;
+    height:max-content !important;
+    color:#666666 !important;
+    margin-top: 3%;
+    width:max-content;
+    padding:4px;
+}

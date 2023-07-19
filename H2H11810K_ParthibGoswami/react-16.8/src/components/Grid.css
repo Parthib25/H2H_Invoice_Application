@@ -1,0 +1,21 @@
+::-webkit-scrollbar {
+    height: 12px;
+    width: 100%;
+    background: #666666;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #575757;
+    -webkit-border-radius: 1ex;
+}
+
+::-webkit-scrollbar-corner {
+    background: #666666;
+}
+.wrapper{
+    width: 100vw;
+    height: max-content;
+}
+.footer2{
+    background-color: #666666;
+}

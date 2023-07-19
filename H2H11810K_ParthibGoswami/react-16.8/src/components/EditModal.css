@@ -1,0 +1,44 @@
+.modal-container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 500px; 
+    height: max-content; 
+    background-color: white;
+    z-index: 9999;
+    border:3px solid orange;
+    border-radius:4px;
+
+}
+.text{
+    color:grey !important;
+    padding-left: 4%;
+}
+.wrap_two{
+    display: flex;
+    flex-direction: row;
+   
+}
+.textInput{
+    width:236px !important;
+    margin:8px !important;
+}
+.lastinput{
+    width:95% !important;
+    margin-left: 12.5px !important;
+    margin-top: 4%;
+}
+.modal-buttons{
+    display: flex;
+    flex-direction: row;
+}
+.buttons{
+    background-color: white !important;
+    color:black  !important;
+    border:2px solid black !important;
+    width:236px !important;
+    margin:8px !important;
+}
